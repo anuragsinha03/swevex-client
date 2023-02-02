@@ -6,7 +6,6 @@ import email from "../../images/email.svg";
 import phone from "../../images/phone.svg";
 import ContactForm from "./ContactForm";
 import Footer from "../home/Footer";
-
 function Contact() {
   return (
     <div>
